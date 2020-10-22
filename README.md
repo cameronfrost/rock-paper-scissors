@@ -1,4 +1,4 @@
-# rock-paper-scissors
+# Rock Paper Scissors
 
 Console-only version of the classic Rock, Paper, Scissors game.  
 
